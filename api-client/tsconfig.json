@@ -19,7 +19,8 @@
       "strict": true,
       "outDir": "dist",
       "skipLibCheck": true,
-      "skipDefaultLibCheck": true
+      "skipDefaultLibCheck": true,
+      "types": ["jest"]
     },
     "exclude": [
         "node_modules",
